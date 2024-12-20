@@ -1,0 +1,68 @@
+export const products = [
+    {
+      id: 1,
+      name: "1848 Staunton Club Special Chess Set",
+      price: "$213.00",
+      discountPrice: "$179.00",
+      discount: "20%",
+      image: "https://images.unsplash.com/photo-1529699211952-734e80c4d42b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNoZXNzfGVufDB8fDB8fHww",
+    },
+    {
+      id: 2,
+      name: "1950 Repro Dubrovnik Bobby Fischer Chess Set",
+      price: "$545.00",
+      discountPrice: "$429.00",
+      discount: "21%",
+      image: "https://plus.unsplash.com/premium_photo-1672855928381-c237c6d74760?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlc3MlMjBib2FyZHxlbnwwfHwwfHx8MA%3D%3D",
+    },
+    {
+        id: 3,
+        name: "1950 Repro Dubrovnik Bobby Fischer Chess Set",
+        price: "$546.00",
+        discountPrice: "$429.00",
+        discount: "21%",
+        image: "https://plus.unsplash.com/premium_photo-1672855928381-c237c6d74760?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlc3MlMjBib2FyZHxlbnwwfHwwfHx8MA%3D%3D",
+      },
+      {
+        id: 4,
+        name: "1950 Repro Dubrovnik Bobby Fischer Chess Set",
+        price: "$142.00",
+        discountPrice: "$429.00",
+        discount: "21%",
+        image: "https://plus.unsplash.com/premium_photo-1672855928381-c237c6d74760?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlc3MlMjBib2FyZHxlbnwwfHwwfHx8MA%3D%3D",
+      },
+      {
+        id: 5,
+        name: "1848 Staunton Club Special Chess Set",
+        price: "$211.00",
+        discountPrice: "$179.00",
+        discount: "20%",
+        image: "https://images.unsplash.com/photo-1529699211952-734e80c4d42b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNoZXNzfGVufDB8fDB8fHww",
+      },
+      {
+        id: 6,
+        name: "1950 Repro Dubrovnik Bobby Fischer Chess Set",
+        price: "$341.00",
+        discountPrice: "$429.00",
+        discount: "21%",
+        image: "https://plus.unsplash.com/premium_photo-1672855928381-c237c6d74760?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlc3MlMjBib2FyZHxlbnwwfHwwfHx8MA%3D%3D",
+      },
+      {
+          id: 7,
+          name: "1950 Repro Dubrovnik Bobby Fischer Chess Set",
+          price: "$442.00",
+          discountPrice: "$429.00",
+          discount: "21%",
+          image: "https://plus.unsplash.com/premium_photo-1672855928381-c237c6d74760?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlc3MlMjBib2FyZHxlbnwwfHwwfHx8MA%3D%3D",
+        },
+        {
+          id: 8,
+          name: "1950 Repro Dubrovnik Bobby Fischer Chess Set",
+          price: "$249.00",
+          discountPrice: "$429.00",
+          discount: "21%",
+          image: "https://plus.unsplash.com/premium_photo-1672855928381-c237c6d74760?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlc3MlMjBib2FyZHxlbnwwfHwwfHx8MA%3D%3D",
+        },
+    // Add more products here
+  ];
+  
